@@ -1,0 +1,19 @@
+.logo {    
+     /* селектор по классу */
+    font-size: 35px;
+    
+}
+
+header {
+    /* селектор по тегу */
+    background-color: #ff0f0f;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    height: 300px;
+    background-color: aqua;
+}
